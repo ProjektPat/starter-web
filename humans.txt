@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     thunder mac Lightning - thunder@lightning.com
+=======
+    thunder ligthning , thunder@lightning.com
+>>>>>>> simple-changes
 
 # THANKS
 
